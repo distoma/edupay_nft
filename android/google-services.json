@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "96175566857",
+    "project_id": "edupay-html",
+    "storage_bucket": "edupay-html.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96175566857:android:1687414af5b631f0fdc8d8",
+        "android_client_info": {
+          "package_name": "com.distoma.edupay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96175566857-29jetqci088epdf70jn4qr6bclbbm4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaT9oCpw6i2WMQaBqrNZUy7X3azXLAN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96175566857-29jetqci088epdf70jn4qr6bclbbm4ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96175566857-7gqj8q16qpn66mb389kc1isb3126p1sl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.distoma.edupay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
